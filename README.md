@@ -18,4 +18,5 @@ Some ideas that I'd like to implement are as follows,
 I'm not sure if I'll be able to finish this project in a reasonable time, or even at all. But I sure would like to. It would be nice to be able to make a bit of money for a possible trip next year.
 
 Thanks for reading!
+
 Jason
