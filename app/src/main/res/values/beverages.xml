@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <array name="beverages">
+        <item>Cola</item>
+        <item>Cream Soda</item>
+        <item>Ginger Ale</item>
+        <item>Lemonade</item>
+        <item>Root Beer</item>
+        <item>Water</item>
+    </array>
+</resources>
