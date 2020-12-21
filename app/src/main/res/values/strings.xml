@@ -1,6 +1,8 @@
 <resources>
     <!-- General -->
     <string name="app_name">DrinkMixer</string>
+    <string name="flavor">Flavor</string>
+    <string name="beverage">Beverage</string>
 
     <!-- Sign In / Sign Up -->
     <string name="username">Username</string>
